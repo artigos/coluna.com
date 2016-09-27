@@ -4,7 +4,7 @@ title: Coluna
 overview: true
 ---
 
-##A coluna é formada pela sobreposição das vértebras desde o atlas até ao cóccix.
+## A coluna é formada pela sobreposição das vértebras desde o atlas até ao cóccix.
 
 ![Coluna](assets/coluna.gif)
 
