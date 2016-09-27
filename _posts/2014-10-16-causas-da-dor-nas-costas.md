@@ -3,13 +3,13 @@ layout: default
 title: Causas da dor nas costas
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A dor nas costas é um dos problemas que afeta grande parte da população. Podem ser mais ou menos intensas e com maior ou menor frequência, mas quase todas as pessoas já sofreram deste mal.
 
 Veja as causas e os tratamentos recomendados.
 
-## Fatores que podem causar dores nas costas
+##  Fatores que podem causar dores nas costas
 
 Em primeiro lugar, deve ter em conta que existem vários tipos de dores de costas diferentes. Enquanto umas podem derivar de uma postura incorreta e serem passageiras, outras podem necessitar obrigatoriamente de acompanhamento médico.
 Se sofrer de dores de costas regulares, deve consultar o seu médico para que este pode avaliar corretamente a situação.
@@ -38,7 +38,7 @@ Os fatores que podem causar as dores nas costas são muitos extensos, mas estes 
 * Hiperlordose - Acontece quando as nádegas ficam mais salientes e o fim das costas é encurvado para dentro. Causa dor na região lombar;
 * Hipercifose - A comum corcunda onde a zona superior das costas fica inclinada para a frente;
 
-## Tratamento para as dores nas costas
+##  Tratamento para as dores nas costas
 
 Os tratamentos para as dores nas costas são maioritariamente constituídos por exercícios físicos e correção de postura. Em casos muito especiais, como a hérnia discal, uma intervenção cirúrgica pode ser a solução.
 

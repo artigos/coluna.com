@@ -4,9 +4,9 @@ title: Fibromialgia
 permalink: /fibromialgia.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Se você sente dores musculares espalhadas em várias regiões de seu corpo, rigidez matinal, fadiga, distúrbios do sono, dores de cabeça constantes, depressão, e ainda problemas intestinais, você pode estar sofrendo de fibromialgia.
+## Se você sente dores musculares espalhadas em várias regiões de seu corpo, rigidez matinal, fadiga, distúrbios do sono, dores de cabeça constantes, depressão, e ainda problemas intestinais, você pode estar sofrendo de fibromialgia.
 
 ![Dor Miofascial](assets/coluna-fibromialgia.gif)
 

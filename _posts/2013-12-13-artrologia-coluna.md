@@ -4,25 +4,25 @@ title: Artrologia da coluna
 permalink: /artrologia-coluna.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##As vértebras articulam-se entre si, por intermédio do corpo vertebral e das apófises articulares, sendo ainda reunidas à distância pelas lâminas, apófises espinhosas e apófises transversas.
+## As vértebras articulam-se entre si, por intermédio do corpo vertebral e das apófises articulares, sendo ainda reunidas à distância pelas lâminas, apófises espinhosas e apófises transversas.
 
 ![Artrologia da coluna](assets/coluna-artrologia.gif)
 
-##Articulações entre os corpos vertebrais
+## Articulações entre os corpos vertebrais
 
 Efectuam-se entre os corpos de duas vértebras justapostas.
 
-##Classificação
+## Classificação
 
 Anfiartroses.
 
-##Superfícies articulares
+## Superfícies articulares
 
 São constituídas pelas faces inferior e superior dos corpos vertebrais de duas vértebras adjacentes. O centro é deprimido em relação à periferia, que se encontra mais elevada. As faces dos corpos vertebrais apresentam uma fina lâmina cartilagínea que reveste a porção central. As vértebras cervicais apresentam nas porções laterais do corpo vertebral as articulações unco-vertebrais de Trolard entre as apófises semilunares e as chanfraduras de duas vértebras adjacentes.
 
-##Meios de união
+## Meios de união
 
 Ligamentos interósseos. Também conhecidos por discos intervertebrais (Discus intervertebralis) têm a til forma de uma lente biconvexa, interpondo-se entre os corpos vertebrais de duas vértebras adjacentes. As duas faces do disco moldam-se intimamente às superfícies vertebrais.
 

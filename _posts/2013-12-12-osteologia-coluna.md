@@ -4,9 +4,9 @@ title: Osteologia da coluna
 permalink: /osteologia-coluna.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A coluna, coluna vertebral, coluna raquidiana ou ráquis (Columna vertebralis) situa-se na porção posterior e mediana do tronco e divide-se em quatro porções: cervical, dorsal ou torácica, lombar e sacro-coccígea.
+## A coluna, coluna vertebral, coluna raquidiana ou ráquis (Columna vertebralis) situa-se na porção posterior e mediana do tronco e divide-se em quatro porções: cervical, dorsal ou torácica, lombar e sacro-coccígea.
 
 ![Osteologia da coluna](assets/coluna.gif)
 
@@ -50,12 +50,12 @@ Sob o ponto de vista morfológico, as vértebras podem classificar-se:
 </tbody>
 </table>
 
-##Vértebras típicas
+## Vértebras típicas
 
 As vértebras típicas ou verdadeiras, são vértebras independentes e podem dividir-se em vértebras isólogas e heterólogas. As vértebras isólogas assemelham-se às vértebras esquemáticas, podendo ser de dois tipos: as vértebras comuns, sem características especiais, sendo a 3ª, 4ª e 5ª vértebras cervicais, as 2ª, 3ª, 4ª, 5ª, 6ª, 7ª, 8ª e 9ª vértebras dorsais e as 1ª, 2ª, 3ª e 4ª vértebras lombares, e as vértebras especiais apresentando características particulares, sendo a 6ª e a 7ª vértebras cervicais 1ª, 10ª, 11ª e 12ª vértebras dorsais e a 5ª vértebra lombar.
 
 As vértebras heterólogas diferem um pouco das vértebras esquemáticas, sendo deste tipo o atlas e o áxis.
 
-##Vértebras atípicas
+## Vértebras atípicas
 
 As vértebras atípicas ou soldadas são vértebras em que houve alterações da forma e do desenvolvimento, afastando-se das vértebras esquemáticas, podendo dividir-se em vértebras alomórficas e alotróficas. As vértebras alomóificas são caracterizadas por apresentarem alterações na forma, como o sacro e o cóccix. As vértebras alotróficas são caracterizadas por apresentarem alterações do desenvolvimento, como as vértebras cranianas (occipital, esfeno-parietal, esfeno-frontal e etmóido-nasal) e isto segundo a teoria vertebral do crânio.

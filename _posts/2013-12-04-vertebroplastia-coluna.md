@@ -4,9 +4,9 @@ title: Vertebroplastia
 permalink: /vertebroplastia-coluna.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A vertebroplastia percutânea é um tratamento minimamente invasivo para fracturas vertebrais por osteoporose ou tumores, com o objectivo de reduzir a dor e fortalecer a estrutura óssea.
+## A vertebroplastia percutânea é um tratamento minimamente invasivo para fracturas vertebrais por osteoporose ou tumores, com o objectivo de reduzir a dor e fortalecer a estrutura óssea.
 
 Consiste na injeção por meio de uma agulha introduzida no interior da vértebra fraturada de um cimento acrílico (o polimetilmetacrilato). O procedimento é realizado sob radioscopia, o que permite ao médico localizar o corpo vertebral afetado e injectar em seu interior o cimento com precisão, evitando assim um procedimento cirúrgico a céu aberto, muito mais agressivo.
 

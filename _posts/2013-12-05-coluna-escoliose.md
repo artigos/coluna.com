@@ -4,17 +4,17 @@ title: Escoliose
 permalink: /coluna-escoliose.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 ![Escoliose](assets/coluna-escoliose.gif)
 
-##A coluna, vista por detrás deve ser "reta", sendo a escoliose uma deformação da coluna na qual ela desvia para um dos lados.
+## A coluna, vista por detrás deve ser "reta", sendo a escoliose uma deformação da coluna na qual ela desvia para um dos lados.
 
 Por vezes existem desvios da coluna que se devem a maus hábitos posturais a que se dá o nome de atitude escoliótica. A atitude escoliótica é corrigida corrigindo a postura e os maus hábitos posturais. No entanto isso requer tempo e muita vontade tal como exercícios por forma a corrigir a atitude escoliótica.
 
 A escoliose pode aparecer em qualquer idade mas ela acentua-se com o crescimento ou seja desenvolve-se ou aumenta com o crescimento e com as más posturas, sendo muitas das vezes as más posturas uma boa indicação de que algo não está bem com o corpo.
 
-##Corrigir a escoliose
+## Corrigir a escoliose
 
 A nível médico: A nível médico as soluções passam pelo uso de coletes ou mesmo pelo uso da cirurgia nos casos mais avançados ou que não reagem ao uso do colete.Escusado será dizer que a cirurgia é sempre um método invasivo e que deveria ser evitado sempre que possível.
 
@@ -24,7 +24,7 @@ A nível de fisioterapia podem-se usar várias abordagens para ajudar a corrigir
 
 Outras abordagens podem incluir massagem, osteopatia, quiroprática, e muitas outras abordagens ou terapias.
 
-##Outras abordagens
+## Outras abordagens
 
 Uma vez que as causas da escoliose podem ser muitas, há que as saber detectar e corrigir.
 

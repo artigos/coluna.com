@@ -4,9 +4,9 @@ title: Aspectos funcionais da coluna
 permalink: /aspectos-funcionais-coluna.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O conjunto dos corpos vertebrais e dos discos intervertebrais suporta o peso da cabeça, do tronco e dos membros superiores e transmitem esta carga aos membros inferiores, transformando a coluna vertebral num órgão estático.
+## O conjunto dos corpos vertebrais e dos discos intervertebrais suporta o peso da cabeça, do tronco e dos membros superiores e transmitem esta carga aos membros inferiores, transformando a coluna vertebral num órgão estático.
 
 ![Movimentos da coluna](assets/coluna-aspectos-funcionais.gif)
 

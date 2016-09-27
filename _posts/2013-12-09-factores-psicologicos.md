@@ -4,9 +4,9 @@ title: Fatores psicológicos
 permalink: /factores-psicologicos.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Ninguém sabe ao certo por que motivo algumas pessoas são vulneráveis às dores nas costas, enquanto outras pessoas com um físico semelhante e que vivem em circunstâncias idênticas não o são.
+## Ninguém sabe ao certo por que motivo algumas pessoas são vulneráveis às dores nas costas, enquanto outras pessoas com um físico semelhante e que vivem em circunstâncias idênticas não o são.
 
 Mas a resposta parece residir em parte nos factores emocionais ou psicológicos.
 
@@ -16,7 +16,7 @@ Em muitas ocasiões, os doentes admitem ter estado sob muito stress e perguntam 
 
 A tensão muscular devido a emoções reprimidas muitas vezes causa dores no pescoço, na cabeça e nas costas.
 
-##Flutuações de humor
+## Flutuações de humor
 
 O humor do dia-a-dia pode afectar a incidência de problemas nas costas. Muitas pessoas apercebem-se de que em alguns dias conseguem cavar o jardim ou realizar tarefas caseiras sem irritar as costas, enquanto que noutros dias se queixam ao mínimo esforço.
 
@@ -26,7 +26,7 @@ Passe alguns dias observando como o seu estado de espírito afecta a sua postura
 
 Um movimento estranho pode ser simplesmente "a gota de água", enquanto que a tensão emocional é o factor de predisposição.
 
-##Stress: emocional e da coluna
+## Stress: emocional e da coluna
 
 A dor nas costas é a forma de o corpo protestar contra o stress e obrigar a um abrandamento geral. Muitas pessoas estão sob pressão constante durante longos períodos, sem repouso adequado nem férias. Perderam o contacto com as necessidades do seu corpo — a necessidade de divertimento físico e de relaxamento e sono. Penso que muitos executivos que adquiriram dores agudas nas costas são sujeitos a stress por objectivos elevados, prazos de entrega, viagens de avião ou simplesmente por tentarem vencer em áreas muito competitivas. Os homens entre os 30 e os 50 anos correm um risco elevado e muitas vezes vivem mentalmente a um ritmo que o seu sistema emocional ou físico não consegue aguentar.
 

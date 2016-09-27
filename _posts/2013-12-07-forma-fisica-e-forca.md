@@ -4,9 +4,9 @@ title: Forma física e força
 permalink: /forma-fisica-e-forca.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##As investigações sugerem que a falta de exercício aumenta o risco de problemas nas costas.
+## As investigações sugerem que a falta de exercício aumenta o risco de problemas nas costas.
 
 Se estivermos em forma, os músculos estão fortes e flexíveis, e recuperamos mais depressa de uma lesão ou doença. Os ossos também ficarão mais fortes. Se permanecermos em forma enquanto envelhecemos, os ossos irão manter a sua força por mais tempo. Alguns desportos como o golfe, o críquete e o beisebol — que implicam torcer e esforçar as costas — podem provocar muitos problemas nas costas. Os desportos de competição levam algumas pessoas a treinar de forma tão intensa que causam problemas de excesso de uso.
 

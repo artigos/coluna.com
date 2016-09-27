@@ -4,9 +4,9 @@ title: Curvaturas da coluna
 permalink: /curvaturas-da-coluna.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A coluna não é rectilínea, apresentando dois tipos de curvaturas: ântero-posteriores ou sagitais e laterais.
+## A coluna não é rectilínea, apresentando dois tipos de curvaturas: ântero-posteriores ou sagitais e laterais.
 
 ![Curvaturas da coluna](assets/coluna-curvaturas.gif)
 
